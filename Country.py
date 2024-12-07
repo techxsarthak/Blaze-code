@@ -38,7 +38,7 @@ def display_country_info(country_data):
 def main():
     print("Welcome to the Country Information Finder!")
     while True:
-        country_name = input("Enter a country name (or type 'exit' to quit): ").strip()
+        country_name = "india"
         if country_name.lower() == "exit":
             print("Goodbye!")
             break
