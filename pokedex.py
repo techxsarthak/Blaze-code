@@ -1,3 +1,4 @@
+#please install requests first by clicking install module in ide
 import requests
 
 def fetch_pokemon_stats(pokemon_name):
